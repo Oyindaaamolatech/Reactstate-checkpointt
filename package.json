@@ -1,5 +1,5 @@
 {
-  "name": "userstate-checkpointt",
+  "name": "reactstate-checkpoint",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
